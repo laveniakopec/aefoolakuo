@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thexibuob.learn3.de/sitemap.xml
